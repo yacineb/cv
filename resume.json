@@ -1,0 +1,282 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Yacine Bouraoui",
+    "label": "Lead Developer",
+    "email": "ybsoft2011@live.com",
+    "phone": "+33 6 21 49 13 98",
+    "image": "https://ui-avatars.com/api/?name=Yacine+Bouraoui&size=200&background=0D8ABC&color=fff",
+    "summary": "Senior software engineeer and Engineering Manager with 10+ years of expertise in building scalabl realtime systems, from fintech trading engines to AI-powered data intensive SaaS platforms. Proven track record of technical leadership, successful startup exit (TrafficPartner), and expertise in Rust, Python, TypeScript, and cloud-native architectures.",
+    "location": {
+      "countryCode": "FR",
+      "region": "France",
+      "city": "Paris"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "yacineb",
+        "url": "https://github.com/yacineb"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "yacinebouraoui",
+        "url": "https://www.linkedin.com/in/yacinebouraoui/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "lili.ai",
+      "position": "Engineering Manager and Senior Fullstack Developer",
+      "startDate": "2023-01-01",
+      "summary": "Building an AI-empowered SaaS helping big construction actors analyze, understand and identify risks related to big construction projects.",
+      "highlights": [
+        "Implemented big data ingestion pipelines with NLP, analytics, and complex ML pipelines including LLM and BERT models",
+        "Developed full-stack search engine with automatic document classification, RAG, and annotations",
+        "Led migration from monolithic architecture to serverless microservices and event-driven architecture",
+        "Tech stack: Rust (tokio, tonic, diesel), Python (pytorch, langchain), VueJS, Postgres, Elasticsearch, Kafka, Kubernetes on Azure"
+      ]
+    },
+    {
+      "name": "TrafficPartner",
+      "position": "Hands on CTO",
+      "startDate": "2020-01-01",
+      "endDate": "2023-01-01",
+      "summary": "Joined early-stage startup developing live video chat solution with whitelabelling, automatic moderation, analytics and billing. Product used by luckycrush.live and other dating platforms.",
+      "highlights": [
+        "Achieved 1.2M+ EUR monthly turnover and 15M users",
+        "Successfully exited - startup acquired by TrafficPartner",
+        "Responsible for all technical aspects: full-stack development, SecOps, DevOps, support, and hiring",
+        "Built complex network programming solutions in Rust involving TCP/UDP streams, Webrtc and HLS media streaming, WASM, and cross-compilation.",
+        "Tech stack: Rust, TypeScript, React native, WASM, Nats, MongoDB, PostgreSQL, Google Cloud, TimescaleDB"
+      ]
+    },
+    {
+      "name": "Netkin",
+      "position": "Software Architect",
+      "startDate": "2019-01-01",
+      "endDate": "2020-01-01",
+      "summary": "Developed virtual and physical events management solution from scratch. Led team of 8 developers.",
+      "highlights": [
+        "Built video conferencing system using WebRTC and DASH/HLS for virtual events",
+        "Implemented CI/CD pipelines in GitLab",
+        "Architected microservices and event-driven systems on Kubernetes",
+        "Mentored junior engineers and collaborated on technical roadmap with CTO",
+        "Tech stack: TypeScript, Rust, nginx/openresty, Kubernetes, CouchDB, Kafka, Redis"
+      ]
+    },
+    {
+      "name": "CloudNetCare",
+      "position": "Lead Developer",
+      "startDate": "2018-01-01",
+      "endDate": "2019-01-01",
+      "summary": "Built 'test as a service' solution (similar to SauceLabs) providing resources for automated end-user testing with VMs, browsers, OS choices, mobile device emulators, and load testing features.",
+      "highlights": [
+        "Migrated monolithic application to distributed, fault-tolerant microservices architecture",
+        "Integrated performance engineering, virtualization, monitoring and tracing tools",
+        "Tech stack: C#, JavaScript, Docker, cloud-init, ELK, Azure, Postgres"
+      ]
+    },
+    {
+      "name": "Antvoice",
+      "position": "Lead Backend Engineer",
+      "startDate": "2017-01-01",
+      "endDate": "2019-01-01",
+      "summary": "Startup helping clients improve online advertising and pretargeting through efficient recommendation algorithms.",
+      "highlights": [
+        "Implemented and maintained recommendation algorithms and data/analytics processing pipelines",
+        "Focused on performance engineering and optimization",
+        "Tech stack: C#, python, TypeScript, Docker, MongoDB, ElasticSearch, Spark, Google Cloud"
+      ]
+    },
+    {
+      "name": "SmartAdServer",
+      "position": "Lead Developer",
+      "startDate": "2014-01-01",
+      "endDate": "2017-01-01",
+      "summary": "Contributed to building solutions for programmatic advertising.",
+      "highlights": [
+        "Implemented highly performing RTB (Real-Time-Bidding) engine with reactive, event-driven architecture",
+        "Tech stack: C#, JavaScript, Aerospike, SQLServer, Hadoop"
+      ]
+    },
+    {
+      "name": "LaFrancaise Group",
+      "position": "Technical Architect",
+      "startDate": "2014-01-01",
+      "endDate": "2017-01-01",
+      "summary": "Part of 25-developer team building solutions for asset management, accounting and finance.",
+      "highlights": [
+        "Developed core components for authentication, caching, security and frontend architecture",
+        "Built workflow engine for managing financial instruments lifecycle",
+        "Led migration from monolithic to microservices architecture",
+        "Tech stack: C#, C++, MarkLogic, Redis, SQLServer, Angular 2"
+      ]
+    },
+    {
+      "name": "CACIB",
+      "position": "R&D Engineer",
+      "startDate": "2013-01-01",
+      "endDate": "2014-01-01",
+      "summary": "Part of 8-developer team building automatic trading engines (low latency) for bonds markets.",
+      "highlights": [
+        "Implemented connectors to financial markets",
+        "Built order negotiation systems and RFQ (request for quotes) workflows",
+        "Tech stack: C++, C#, SQL, FIX, ZeroMQ, ION Platform, Low level TCP/UDP"
+      ]
+    },
+    {
+      "name": "Societe Generale Investment Bank",
+      "position": "R&D Engineer",
+      "startDate": "2013-01-01",
+      "endDate": "2014-01-01",
+      "summary": "Part of 5-developer team building grid-computing solution for financial risk indicators on large portfolios.",
+      "highlights": [
+        "Designed pricing API and data model for financial instruments",
+        "Integrated and wrapped legacy C++/C computation libraries",
+        "Implemented core algorithms for risk computation engine",
+        "Tech stack: C++, C#, SQLServer, Protobuf, Apache Cassandra, IBM Platform Symphony"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Ecole des Mines de St-Etienne",
+      "area": "Applied Mathematics",
+      "studyType": "Engineering degree + Master's degree",
+      "startDate": "2007-01-01",
+      "endDate": "2010-01-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "level": "Expert",
+      "keywords": [
+        "Rust",
+        "Python",
+        "TypeScript",
+        "JavaScript",
+        "C#",
+        "C++"
+      ]
+    },
+    {
+      "name": "Frontend Development",
+      "level": "Advanced",
+      "keywords": [
+        "ReactJS",
+        "VueJS"
+      ]
+    },
+    {
+      "name": "Backend Development",
+      "level": "Expert",
+      "keywords": [
+        "NodeJS",
+        "Tokio",
+        "Diesel",
+        "Microservices",
+        "Event-driven Architecture",
+        "Performance enginering",
+        "Network programming"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "Expert",
+      "keywords": [
+        "PostgreSQL",
+        "MongoDB",
+        "Redis",
+        "ElasticSearch",
+        "CouchDB",
+        "Cassandra",
+        "Milvus"
+      ]
+    },
+    {
+      "name": "Cloud & DevOps",
+      "level": "Expert",
+      "keywords": [
+        "AWS",
+        "Azure",
+        "Google Cloud",
+        "Docker",
+        "Kubernetes",
+        "Github actions"
+      ]
+    },
+    {
+      "name": "Message Queues & Streaming",
+      "level": "Expert",
+      "keywords": [
+        "Apache Kafka",
+        "NATS",
+        "ZeroMQ"
+      ]
+    },
+    {
+      "name": "AI/ML",
+      "level": "Advanced",
+      "keywords": [
+        "PyTorch",
+        "LangGraph",
+        "BERT",
+        "RAG",
+        "Vector databases"
+      ]
+    },
+    {
+      "name": "Monitoring & Observability",
+      "level": "Advanced",
+      "keywords": [
+        "Prometheus",
+        "Grafana",
+        "OpenTelemetry",
+        "Jaeger",
+        "Kibana"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Powerlifting",
+      "keywords": [
+        "sports",
+        "strength"
+      ]
+    },
+    {
+      "name": "Oriental Food",
+      "keywords": [
+        "cooking",
+        "gourmet"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "French",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Arabic",
+      "fluency": "Native"
+    },
+    {
+      "language": "Italian",
+      "fluency": "Intermediate"
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2024-01-01T00:00:00"
+  }
+}
