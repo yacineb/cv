@@ -1,3 +1,3 @@
 # cv
 
-My resume
+My resume. powered by <https://jsonresume.org/>
