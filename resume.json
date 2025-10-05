@@ -6,7 +6,7 @@
     "email": "ybsoft2011@live.com",
     "phone": "+33 6 21 49 13 98",
     "image": "https://ui-avatars.com/api/?name=Yacine+Bouraoui&size=200&background=0D8ABC&color=fff",
-    "summary": "Senior software engineer and Engineering Manager with 14+ years of expertise in building scalable real-time systems, from fintech trading engines to AI-powered data intensive SaaS platforms. Proven track record of technical leadership, successful startup exit (TrafficPartner), and expertise in Rust, Python, TypeScript, and cloud-native architectures.",
+    "summary": "Senior software engineer and Engineering Manager with 14+ years of expertise in building scalable real-time systems, from fintech trading engines to AI-powered data intensive SaaS platforms. Proven track record of technical leadership, successful startup exit (TrafficPartner), and expertise in Rust, Python, TypeScript, cloud-native architectures. Passionate about low-level programming, networks and performance engineering.",
     "location": {
       "countryCode": "FR",
       "region": "France",
@@ -32,10 +32,11 @@
       "startDate": "2023-02-01",
       "summary": "Building an AI-empowered SaaS helping big construction actors analyze, understand and identify risks related to big construction projects.",
       "highlights": [
-        "Implemented massive data ingestion pipelines with NLP, analytics, models evaluation and ML pipelines using LLM (Llama 3, Qwen) and BERT models",
-        "Developed full-stack search engine with automatic document classification, RAG, and annotations",
-        "Led migration from monolithic architecture to serverless microservices and event-driven architecture",
-        "Tech stack: Rust (tokio, tonic, diesel, pyo3), Python (pytorch, langchain), VueJS, Postgres, Elasticsearch, Kafka, Kubernetes on Azure"
+        "Building an AI-empowered SaaS helping big construction actors analyze, understand and identify risks related to their projects.",
+        "Implemented document extraction, OCR, classification, RAG, annotations, semantic search, summarization.",
+        "Deployment of LLM (Llama 3, Qwen), BERT models on Azure. LLM fine-tuning (RLHF, RLAIF), synthetic data generation, model evaluation and selection.",
+        "Led migration from monolithic architecture to a microservices and event-driven architecture.",
+        "Tech stack: Rust (tokio, tonic, diesel, pyo3), Python (pytorch, langchain), VueJS, Postgres, Elasticsearch, Kafka, Kubernetes on Azure, MLFlow, Weights & Biases"
       ]
     },
     {
@@ -43,12 +44,12 @@
       "position": "Hands on CTO",
       "startDate": "2020-01-01",
       "endDate": "2023-01-01",
-      "summary": "Joined early-stage startup developing live video chat solution with whitelabelling, automatic moderation, analytics and billing. Product used by luckycrush.live and other dating platforms.",
+      "summary": "Joined early-stage startup developing live video chat solution with whitelabelling, automatic moderation, analytics and billing. Product used by luckycrush.live and other social and gaming platforms.",
       "highlights": [
         "Achieved 1.2M+ EUR monthly turnover and 15M users",
         "Successfully exited - startup acquired by TrafficPartner",
-        "Responsible for all technical aspects: full-stack development, SecOps, DevOps, support, and hiring",
-        "Network programming in Rust involving real-time communication with TCP/UDP, WebRTC and HLS media streaming",
+        "Full-stack development, DevOps, technical support, hiring and onboarding",
+        "Network programming in Rust involving real-time, low-latency communication with TCP/UDP, WebRTC and HLS media streaming",
         "Tech stack: Rust, TypeScript, React Native, WASM, cross-compilation, NATS, MongoDB, PostgreSQL, Google Cloud, TimescaleDB"
       ]
     },
@@ -59,8 +60,8 @@
       "endDate": "2020-01-01",
       "summary": "Developed virtual and physical events management solution from scratch. Led team of 8 developers.",
       "highlights": [
-        "Built video conferencing system using WebRTC and DASH/HLS for virtual events",
-        "Implemented CI/CD pipelines in GitLab",
+        "Built video conferencing system using WebRTC and DASH/HLS for virtual events, events registration and management",
+        "Implemented CI/CD pipelines",
         "Architected microservices and event-driven systems on Kubernetes",
         "Mentored junior engineers and collaborated on technical roadmap with CTO",
         "Tech stack: TypeScript, Rust, nginx/openresty, Kubernetes, CouchDB, Kafka, Redis"
@@ -137,7 +138,7 @@
         "Designed pricing API and data model for financial instruments",
         "Integrated and wrapped legacy C++/C computation libraries",
         "Implemented core algorithms for risk computation engine",
-        "Tech stack: C++, C#, SQLServer, Protobuf, Apache Cassandra, IBM Platform Symphony"
+        "Tech stack: C++, OpenBLAS, C#, SQLServer, Protobuf, Apache Cassandra, IBM Platform Symphony"
       ]
     }
   ],
@@ -223,7 +224,7 @@
       "level": "Advanced",
       "keywords": [
         "PyTorch",
-        "LangGraph",
+        "LangChain",
         "Retrieval-Augmented Generation (RAG)",
         "Vector databases",
         "Reinforcement learning",
