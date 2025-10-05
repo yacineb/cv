@@ -35,7 +35,7 @@
         "Implemented massive data ingestion pipelines with NLP, analytics, models evaluation and ML pipelines using LLM (Llama 3, Qwen) and BERT models",
         "Developed full-stack search engine with automatic document classification, RAG, and annotations",
         "Led migration from monolithic architecture to serverless microservices and event-driven architecture",
-        "Tech stack: Rust (tokio, tonic, diesel), Python (pytorch, langchain), VueJS, Postgres, Elasticsearch, Kafka, Kubernetes on Azure"
+        "Tech stack: Rust (tokio, tonic, diesel, pyo3), Python (pytorch, langchain), VueJS, Postgres, Elasticsearch, Kafka, Kubernetes on Azure"
       ]
     },
     {
