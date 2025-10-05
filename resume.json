@@ -32,7 +32,7 @@
       "startDate": "2023-02-01",
       "summary": "Building an AI-empowered SaaS helping big construction actors analyze, understand and identify risks related to big construction projects.",
       "highlights": [
-        "Implemented massive data ingestion pipelines with NLP, analytics, models evaluation and ML pipelines using LLM (llama 3, qwen) and BERT models",
+        "Implemented massive data ingestion pipelines with NLP, analytics, models evaluation and ML pipelines using LLM (Llama 3, Qwen) and BERT models",
         "Developed full-stack search engine with automatic document classification, RAG, and annotations",
         "Led migration from monolithic architecture to serverless microservices and event-driven architecture",
         "Tech stack: Rust (tokio, tonic, diesel), Python (pytorch, langchain), VueJS, Postgres, Elasticsearch, Kafka, Kubernetes on Azure"
