@@ -224,7 +224,7 @@
       "keywords": [
         "PyTorch",
         "LangGraph",
-        "retrieval augmented generation",
+        "Retrieval-Augmented Generation (RAG)",
         "Vector databases",
         "Reinforcement learning",
         "wandb",
