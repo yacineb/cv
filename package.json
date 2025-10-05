@@ -4,12 +4,14 @@
   "description": "My resume",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "gen-pdf": "resume export cv.pdf --theme kendall",
+    "gen-html": "resume export index.html --theme kendall"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "jsonresume-theme-elegant": "^1.16.1",
-    "jsonresume-theme-kendall": "^0.2.0"
+    "jsonresume-theme-kendall": "^0.2.0",
+    "resume-cli": "3.0.8"
   }
 }

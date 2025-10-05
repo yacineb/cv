@@ -2,11 +2,11 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Yacine Bouraoui",
-    "label": "Lead Developer",
+    "label": "Senior Software Engineer",
     "email": "ybsoft2011@live.com",
     "phone": "+33 6 21 49 13 98",
     "image": "https://ui-avatars.com/api/?name=Yacine+Bouraoui&size=200&background=0D8ABC&color=fff",
-    "summary": "Senior software engineeer and Engineering Manager with 10+ years of expertise in building scalabl realtime systems, from fintech trading engines to AI-powered data intensive SaaS platforms. Proven track record of technical leadership, successful startup exit (TrafficPartner), and expertise in Rust, Python, TypeScript, and cloud-native architectures.",
+    "summary": "Senior software engineer and Engineering Manager with 14+ years of expertise in building scalable real-time systems, from fintech trading engines to AI-powered data intensive SaaS platforms. Proven track record of technical leadership, successful startup exit (TrafficPartner), and expertise in Rust, Python, TypeScript, and cloud-native architectures.",
     "location": {
       "countryCode": "FR",
       "region": "France",
@@ -29,13 +29,13 @@
     {
       "name": "lili.ai",
       "position": "Engineering Manager and Senior Fullstack Developer",
-      "startDate": "2023-01-01",
+      "startDate": "2023-02-01",
       "summary": "Building an AI-empowered SaaS helping big construction actors analyze, understand and identify risks related to big construction projects.",
       "highlights": [
-        "Implemented big data ingestion pipelines with NLP, analytics, and complex ML pipelines including LLM and BERT models",
+        "Implemented massive data ingestion pipelines with NLP, analytics, models evaluation and ML pipelines using LLM (Llama 3, Qwen) and BERT models",
         "Developed full-stack search engine with automatic document classification, RAG, and annotations",
         "Led migration from monolithic architecture to serverless microservices and event-driven architecture",
-        "Tech stack: Rust (tokio, tonic, diesel), Python (pytorch, langchain), VueJS, Postgres, Elasticsearch, Kafka, Kubernetes on Azure"
+        "Tech stack: Rust (tokio, tonic, diesel, pyo3), Python (pytorch, langchain), VueJS, Postgres, Elasticsearch, Kafka, Kubernetes on Azure"
       ]
     },
     {
@@ -48,8 +48,8 @@
         "Achieved 1.2M+ EUR monthly turnover and 15M users",
         "Successfully exited - startup acquired by TrafficPartner",
         "Responsible for all technical aspects: full-stack development, SecOps, DevOps, support, and hiring",
-        "Built complex network programming solutions in Rust involving TCP/UDP streams, Webrtc and HLS media streaming, WASM, and cross-compilation.",
-        "Tech stack: Rust, TypeScript, React native, WASM, Nats, MongoDB, PostgreSQL, Google Cloud, TimescaleDB"
+        "Network programming in Rust involving real-time communication with TCP/UDP, WebRTC and HLS media streaming",
+        "Tech stack: Rust, TypeScript, React Native, WASM, cross-compilation, NATS, MongoDB, PostgreSQL, Google Cloud, TimescaleDB"
       ]
     },
     {
@@ -74,15 +74,15 @@
       "summary": "Built 'test as a service' solution (similar to SauceLabs) providing resources for automated end-user testing with VMs, browsers, OS choices, mobile device emulators, and load testing features.",
       "highlights": [
         "Migrated monolithic application to distributed, fault-tolerant microservices architecture",
-        "Integrated performance engineering, virtualization, monitoring and tracing tools",
+        "Integrated performance engineering, resources orchestration, virtualization, distributed tracing and monitoring tools",
         "Tech stack: C#, JavaScript, Docker, cloud-init, ELK, Azure, Postgres"
       ]
     },
     {
-      "name": "Antvoice",
+      "name": "Antvoice (Contractor)",
       "position": "Lead Backend Engineer",
-      "startDate": "2017-01-01",
-      "endDate": "2019-01-01",
+      "startDate": "2017-10-01",
+      "endDate": "2018-01-01",
       "summary": "Startup helping clients improve online advertising and pretargeting through efficient recommendation algorithms.",
       "highlights": [
         "Implemented and maintained recommendation algorithms and data/analytics processing pipelines",
@@ -91,21 +91,22 @@
       ]
     },
     {
-      "name": "SmartAdServer",
+      "name": "SmartAdServer (Contractor)",
       "position": "Lead Developer",
-      "startDate": "2014-01-01",
-      "endDate": "2017-01-01",
+      "startDate": "2017-06-01",
+      "endDate": "2017-09-01",
       "summary": "Contributed to building solutions for programmatic advertising.",
       "highlights": [
-        "Implemented highly performing RTB (Real-Time-Bidding) engine with reactive, event-driven architecture",
+        "Implemented highly performing RTB (Real-Time-Bidding) engine with reactive, event-driven architecture.",
+        "Timeseries forecasting for inventory optimization and optimized ad targeting and ad campaigns performance",
         "Tech stack: C#, JavaScript, Aerospike, SQLServer, Hadoop"
       ]
     },
     {
       "name": "LaFrancaise Group",
       "position": "Technical Architect",
-      "startDate": "2014-01-01",
-      "endDate": "2017-01-01",
+      "startDate": "2014-02-01",
+      "endDate": "2017-05-01",
       "summary": "Part of 25-developer team building solutions for asset management, accounting and finance.",
       "highlights": [
         "Developed core components for authentication, caching, security and frontend architecture",
@@ -117,7 +118,7 @@
     {
       "name": "CACIB",
       "position": "R&D Engineer",
-      "startDate": "2013-01-01",
+      "startDate": "2013-02-01",
       "endDate": "2014-01-01",
       "summary": "Part of 8-developer team building automatic trading engines (low latency) for bonds markets.",
       "highlights": [
@@ -129,8 +130,8 @@
     {
       "name": "Societe Generale Investment Bank",
       "position": "R&D Engineer",
-      "startDate": "2013-01-01",
-      "endDate": "2014-01-01",
+      "startDate": "2010-12-01",
+      "endDate": "2013-02-01",
       "summary": "Part of 5-developer team building grid-computing solution for financial risk indicators on large portfolios.",
       "highlights": [
         "Designed pricing API and data model for financial instruments",
@@ -143,10 +144,10 @@
   "education": [
     {
       "institution": "Ecole des Mines de St-Etienne",
-      "area": "Applied Mathematics",
+      "area": "Applied Mathematics - Computer Science",
       "studyType": "Engineering degree + Master's degree",
-      "startDate": "2007-01-01",
-      "endDate": "2010-01-01"
+      "startDate": "2007-09-01",
+      "endDate": "2010-09-01"
     }
   ],
   "skills": [
@@ -179,7 +180,7 @@
         "Diesel",
         "Microservices",
         "Event-driven Architecture",
-        "Performance enginering",
+        "Performance engineering",
         "Network programming"
       ]
     },
@@ -223,9 +224,11 @@
       "keywords": [
         "PyTorch",
         "LangGraph",
-        "BERT",
-        "RAG",
-        "Vector databases"
+        "Retrieval-Augmented Generation (RAG)",
+        "Vector databases",
+        "Reinforcement learning",
+        "Weights & Biases (W&B)",
+        "MLflow"
       ]
     },
     {
