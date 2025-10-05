@@ -49,7 +49,7 @@
         "Successfully exited - startup acquired by TrafficPartner",
         "Responsible for all technical aspects: full-stack development, SecOps, DevOps, support, and hiring",
         "Network programming in Rust involving realtime communication with TCP/UDP, WebRTC and HLS media streaming",
-        "Tech stack: Rust, TypeScript, React native, WASM, cross-compilation, NATS, MongoDB, PostgreSQL, Google Cloud, TimescaleDB"
+        "Tech stack: Rust, TypeScript, React Native, WASM, cross-compilation, NATS, MongoDB, PostgreSQL, Google Cloud, TimescaleDB"
       ]
     },
     {
