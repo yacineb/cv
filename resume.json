@@ -2,11 +2,11 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Yacine Bouraoui",
-    "label": "Lead Developer",
+    "label": "Senior Software Engineer",
     "email": "ybsoft2011@live.com",
     "phone": "+33 6 21 49 13 98",
     "image": "https://ui-avatars.com/api/?name=Yacine+Bouraoui&size=200&background=0D8ABC&color=fff",
-    "summary": "Senior software engineer and Engineering Manager with 14+ years of expertise in building scalable realtime systems, from fintech trading engines to AI-powered data intensive SaaS platforms. Proven track record of technical leadership, successful startup exit (TrafficPartner), and expertise in Rust, Python, TypeScript, and cloud-native architectures.",
+    "summary": "Senior software engineer and Engineering Manager with 14+ years of expertise in building scalable real-time systems, from fintech trading engines to AI-powered data intensive SaaS platforms. Proven track record of technical leadership, successful startup exit (TrafficPartner), and expertise in Rust, Python, TypeScript, and cloud-native architectures.",
     "location": {
       "countryCode": "FR",
       "region": "France",
@@ -48,7 +48,7 @@
         "Achieved 1.2M+ EUR monthly turnover and 15M users",
         "Successfully exited - startup acquired by TrafficPartner",
         "Responsible for all technical aspects: full-stack development, SecOps, DevOps, support, and hiring",
-        "Network programming in Rust involving realtime communication with TCP/UDP, WebRTC and HLS media streaming",
+        "Network programming in Rust involving real-time communication with TCP/UDP, WebRTC and HLS media streaming",
         "Tech stack: Rust, TypeScript, React Native, WASM, cross-compilation, NATS, MongoDB, PostgreSQL, Google Cloud, TimescaleDB"
       ]
     },
