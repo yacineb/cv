@@ -227,7 +227,7 @@
         "Retrieval-Augmented Generation (RAG)",
         "Vector databases",
         "Reinforcement learning",
-        "wandb",
+        "Weights & Biases (W&B)",
         "mlflow"
       ]
     },
